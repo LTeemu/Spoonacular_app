@@ -9,16 +9,16 @@ The application was made with React Native, login and favorites with Firebase.
 What i made:
 
 Components:
-  RecipeModal.js
+  RecipeModal.js,
   DrawerContent.js
   
 Screens:
-  Recipelist.js
+  Recipelist.js,
   Favorites.js 
 
 Root: 
-  App.js
-  testiData.js 
+  App.js,
+  testiData.js ,
   testiDataFavorites.js 
   
 Related CSS and unified stylization of the application.
