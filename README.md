@@ -1,5 +1,5 @@
-# Spoonacular_private
-Spoonacular API Recipe App - Made with React Native, Firebase, Expo
+# Spoonacular API Recipe App
+Made with React Native, Firebase, Expo
 
 Oamk group project.
 An application where you can search for recipes by entering ingredients.
