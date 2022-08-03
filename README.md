@@ -1,25 +1,24 @@
-# Spoonacular API Recipe App
+# Spoonacular API Recipe App, OAMK group project, December 2021
 Made with React Native, Firebase, Expo
 
-Oamk group project.
-An application where you can search for recipes by entering ingredients.
-Recipe information is retrieved from Spoonacular API.
-The application was made with React Native, login and favorites with Firebase.
+Search for recipes by entering ingredients, filter by intolerance or diet.<br>
+Sign in to save favorites and write notes<br>
+Ask the chatbot food-related questions<br><br>
 
-What i made:
+### Things i made:
 
 Components:
-  RecipeModal.js,
-  DrawerContent.js
+  - RecipeModal.js,
+  - DrawerContent.js
   
 Screens:
-  Recipelist.js,
-  Favorites.js 
+  - Recipelist.js,
+  - Favorites.js 
 
 Root: 
-  App.js,
-  testiData.js ,
-  testiDataFavorites.js 
+  - App.js,
+  - testiData.js ,
+  - testiDataFavorites.js 
   
 Related CSS and unified stylization of the application.
 
