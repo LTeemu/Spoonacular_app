@@ -1,5 +1,5 @@
-# Spoonacular API Recipe App, OAMK group project, December 2021
-Made with React Native, Firebase, Expo
+# Spoonacular Recipe App - December 2021 - OAMK group project
+React Native, Firebase, Expo, Spoonacular API
 
 Search for recipes by entering ingredients, filter by intolerance or diet.<br>
 Sign in to save favorites and write notes<br>
